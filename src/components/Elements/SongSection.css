@@ -1,0 +1,73 @@
+
+.parte2{
+    width: 1235px;
+    height: 850px;
+    background:white;
+}
+.tituloSong{
+    font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;
+    font-size: 24px;
+    font-weight: 100;
+    display: block;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: column nowrap;
+    flex-flow: column nowrap;
+    -webkit-align-items: center;
+    align-items: center;
+    padding: 50px 0 0;
+    box-sizing: border-box;
+    color: black;
+}
+.portadaSong{
+    padding-left: 10px;
+    padding-right:10px;
+    padding-top: 10px;
+    font-family: sans-serif;
+    color:rgb(20, 20, 20);
+    font-size:13px;
+}
+
+
+h5{
+    margin-top: -15px;
+    color:#c0c0c0;
+}
+
+.table1 tbody th img{
+    width: 180px;
+    height: 180px;
+}
+.btnSongs{
+    visibility: hidden;
+}
+
+th:hover > .btnSongs{
+    display: block;
+    position: absolute;
+    margin-left:80px;
+    margin-top: -205px;
+    width:35px;
+    height:35px;
+    background-color:#f50;
+    border-radius: 50%;
+    border-color:#f50;
+}
+.btnSongs:hover{
+    animation-name: pulse;
+    animation-duration: 1s;
+}
+
+.bttListasSong{
+    font-size: 18px;
+    background-color: #f50;
+    border-color: #f50;
+    color: #fff;
+    height:45px; 
+    width:240px; 
+    margin: 30px -115px; 
+    position:relative;
+    top:30%; 
+    left:50%;
+    border-radius: 5px;
+}

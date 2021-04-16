@@ -1,0 +1,88 @@
+.parte5{
+    width: 1235px;
+    height: 550px;
+    background:white;
+}
+
+.frontHero_titleLast{
+    font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;
+    font-size: 34px;
+    font-weight: 100;
+    display: block;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: column nowrap;
+    flex-flow: column nowrap;
+    -webkit-align-items: center;
+    align-items: center;
+    padding-top: 60px;
+    box-sizing: border-box;
+    color: black;
+}
+.ptextLast{
+    font-size: 28px;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: column nowrap;
+    flex-flow: column nowrap;
+    -webkit-align-items: center;
+    align-items: center;
+    box-sizing: border-box;
+    color: black;
+}
+.bttCrearLast{
+    font-size: 18px;
+    background-color: #f50;
+    border-color: #f50;
+    color: #fff;
+    height:45px; 
+    width:210px; 
+    margin: 0px -115px; 
+    position:relative;
+    left:50%;
+    border-radius: 5px;
+}
+.tablebutLast{
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: column nowrap;
+    flex-flow: column nowrap;
+    -webkit-align-items: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+.Inicia_Sesión{
+    font-size: 18px;
+    background-color: white;
+    border-color: gray;
+    color: black;
+    height:35px; 
+    width:120px; 
+    right: 50%;
+    margin: 30px -35px; 
+    border-radius: 5px;
+}
+.cuentaLast{
+    font-size: 14px;
+    position:static;
+    padding-right: 90px;
+    align-items: center;
+    box-sizing: border-box;
+    color: black;
+}
+.barra1{
+    height: 2px;
+    padding-top: 50px;
+    width: 1235px;
+    background-color: white;
+}
+.barra{
+    height: 2px;
+    width: 1235px;
+    background-color: lightgray;
+}
+.ultimo{
+    color: lightgray;
+    padding-left: 2%;
+    padding-right: 2%;
+}

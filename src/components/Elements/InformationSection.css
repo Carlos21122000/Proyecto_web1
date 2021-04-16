@@ -1,0 +1,32 @@
+.Parte4{
+    width: 1235px;
+    height: 350px;
+    background-image: url("../../../images/informacion.jpg");
+    box-shadow: inset 0 120px 80px -40px rgb(5 5 5 / 60%);
+}
+.frontHero_titleInfo{
+    font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;
+    font-size: 32px;
+    font-weight: 100;
+    padding: 50px 0 0;
+    padding-left: 30px;
+    box-sizing: border-box;
+    color: white;
+}
+.ptextInfo{
+    font-size: 26px;
+    padding-left: 30px;
+    box-sizing: border-box;
+    color: white;
+}
+.bttInfo{
+    font-size: 14px;
+    background-color: transparent;
+    left:30px;
+    color: #fff;
+    height:40px; 
+    width:160px; 
+    position:relative;
+    border-color: white;
+    border-radius: 5px;
+}

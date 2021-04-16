@@ -1,0 +1,111 @@
+.PortadaLogin{
+    width: 1235px;
+    height: 450px;
+    background-image: url("../../../images/portada.jpg");
+    box-shadow: inset 0 120px 80px -40px rgb(5 5 5 / 60%);
+}
+.NavLogin{
+    color: #fff;
+}
+.plogoLogin{
+    font-size: 16px;
+    position:relative;
+    color: white;
+}
+.creadoresLogin{
+    font-size: 12px;
+    color: white;
+}
+.logoSLogin{
+    padding-left:30px;
+    width: 50px;
+    height: 25px;
+    
+}
+  
+  thead th:nth-child(1) {
+    padding-top:20px;
+  }
+  
+  thead th:nth-child(2) {
+    padding-top:20px;
+  }
+  thead th:nth-child(3) {
+    padding-top:20px;
+    padding-left:600px;
+  }
+  
+  thead th:nth-child(4) {
+    padding-top:20px;
+    padding-left:10px;
+  }
+  thead th:nth-child(5) {
+    padding-top:20px;
+    padding-left:10px;
+  }
+.frontHero_title {
+    font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;
+    font-size: 32px;
+    font-weight: 100;
+    display: block;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: column nowrap;
+    flex-flow: column nowrap;
+    -webkit-align-items: center;
+    align-items: center;
+    padding: 50px 0 0;
+    box-sizing: border-box;
+    color: white;
+}
+.ptextLogin {
+    font-size: 20px;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: column nowrap;
+    flex-flow: column nowrap;
+    -webkit-align-items: center;
+    align-items: center;
+    box-sizing: border-box;
+    color: white;
+}
+.bttIniciarSLogin{
+    font-size: 14px;
+    background-color: transparent;
+    color: #fff;
+    height:30px; 
+    width:110px; 
+    position:relative;
+    border-color: white;
+    border-radius: 5px;
+}
+.bttCrearTuCuentaLogin{
+    font-size: 14px;
+    background-color: #f50;
+    border-color: #f50;
+    color: #fff;
+    height:30px; 
+    width:130px; 
+    position:relative;
+    border-radius: 5px;
+}
+
+.bttRegistrarseLogin{
+    font-size: 18px;
+    background-color: #f50;
+    border-color: #f50;
+    color: #fff;
+    height:45px; 
+    width:220px; 
+    margin: 30px -115px; 
+    position:relative;
+    top:30%; 
+    left:50%;
+    border-radius: 5px;
+}
+.colorLogin{
+    width: 1235px;
+    height: 4px;
+    background-color: #f50;
+    border-color: #f50;
+}
