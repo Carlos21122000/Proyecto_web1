@@ -1,4 +1,4 @@
-# Lab9-web
+# Proyecto 1 React
 El proyecto consistia de realizar imitar a otra página web utilizando las tecnologías vistas en clase.
 ## El objetivo era similar la pagina de inicio de SoundCloud 
 ![primera](https://user-images.githubusercontent.com/53351491/115096595-17dc2400-9ee3-11eb-80a9-2d5f2cc694f2.PNG)
