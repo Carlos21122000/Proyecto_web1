@@ -5,10 +5,10 @@ El proyecto consistia de realizar imitar a otra página web utilizando las tecno
 ![segunda](https://user-images.githubusercontent.com/53351491/115096592-13b00680-9ee3-11eb-996b-ba342263616d.PNG)
 ![tercera](https://user-images.githubusercontent.com/53351491/115096587-114dac80-9ee3-11eb-8d76-5a4ba8ea95d0.PNG)
 ## Tecnologias utilizadas para elaborar el Proyecto
-React
-Babel
-Webpack
-ESLint
-Sass
+###React
+###Babel
+###Webpack
+###ESLint
+###Sass
 
 
