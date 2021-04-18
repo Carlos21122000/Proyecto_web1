@@ -14,7 +14,5 @@ _Herramientas y frameworks utilizados_
 * [Babel](https://babeljs.io/)
 * [Webpack](https://webpack.js.org/)
 * [ESlint](https://eslint.org/)
-* [Bootstrap V5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-* [ionicons React](https://react-ionicons.netlify.app/)
-
+* [Sass](https://sass-lang.com/)
 
