@@ -8,9 +8,9 @@ class InformationSection extends React.Component {
           <div className="Parte4">
           <h2 className = "frontHero_titleInfo">Llamada a todos los creadores</h2>
             <p className="ptextInfo">
-              "Hazte con SoundCloud para estar en contacto 
-              con tus seguidores, compartir tus canciones y 
-              aumentar tu público. ¿A qué esperas?"
+              "Hazte con SoundCloud para estar en contacto <br/>
+              con tus seguidores, compartir tus canciones y <br/>
+              aumentar tu público. ¿A qué esperas?"<br/>
             </p>
             <div className="frontHero_ctaInfo">
              <a href="https://community.soundcloud.com/"><button type="button" className="bttInfo">

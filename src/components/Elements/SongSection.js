@@ -6,6 +6,11 @@ class SongSection extends React.Component {
     return (
         <div className="SongSection">
           <div className="parte2">
+            <div className="secion2Song" >
+            <input className="inputSong"  type="text" placeholder="Buscar artistas, grupos, pistas y podcast"></input>
+            <button class="busqueda" type="submit">'</button>  o    
+            <button class="Sube_la_tuya" type="submit">Sube la tuya</button>
+            </div>
           <div className="tituloSong">Escucha la música del momento gratis en la comunidad SoundCloud</div>
             <table className="table1">
                 <tbody>

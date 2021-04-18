@@ -5,7 +5,7 @@ import SongSection from "./Elements/SongSection";
 import DownloadSection from "./Elements/DownloadSection";
 import InformationSection from "./Elements/InformationSection";
 import LastSection from "./Elements/LastSection";
-import "./App.css";
+import "./App.scss";
 
 class App extends Component {
     render(){

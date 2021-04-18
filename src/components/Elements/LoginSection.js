@@ -23,9 +23,9 @@ class LoginSection extends React.Component  {
             </div>
             <h2 className = "frontHero_title">Conectar en SoundCloud</h2>
             <p className="ptextLogin">
-              "Descubre, escucha y comparte un catálogo de música
-               que no deja de crecer con artistas emergentes y
-               consolidados de todo el mundo."
+              "Descubre, escucha y comparte un catálogo de música <br/>
+               que no deja de crecer con artistas emergentes y<br/>
+               consolidados de todo el mundo."<br/>
             </p>
             <div className="frontHero_cta">
              <a href="#"><button type="button" className="bttRegistrarseLogin">
