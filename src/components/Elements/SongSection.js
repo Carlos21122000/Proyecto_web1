@@ -1,5 +1,5 @@
 import React from "react";
-import "./SongSection.css";
+import "./SongSection.scss";
 
 class SongSection extends React.Component {
   render() {
