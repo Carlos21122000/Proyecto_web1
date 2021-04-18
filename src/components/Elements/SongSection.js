@@ -1,5 +1,19 @@
 import React from "react";
 import "./SongSection.scss";
+import Imagen1 from "../../../images/song1.jpg";
+import Imagen2 from "../../../images/song2.jpg";
+import Imagen3 from "../../../images/song3.jpg";
+import Imagen4 from "../../../images/song4.jpg";
+import Imagen5 from "../../../images/song5.jpg";
+import Imagen6 from "../../../images/song6.jpg";
+import Imagen7 from "../../../images/song7.jpg";
+import Imagen8 from "../../../images/song8.jpg";
+import Imagen9 from "../../../images/song9.jpg";
+import Imagen10 from "../../../images/song10.jpg";
+import Imagen11 from "../../../images/song11.jpg";
+import Imagen12 from "../../../images/song12.jpg";
+
+
 
 class SongSection extends React.Component {
   render() {
@@ -15,24 +29,24 @@ class SongSection extends React.Component {
             <table className="table1">
                 <tbody>
                   <tr>
-                    <th className="portadaSong"><img src="../../../images/song1.jpg"></img><h4>LMV-You Say You Love Me (Prod.EFE1 X Malloy)</h4><h5>LMV</h5><button className="boton"></button></th>
-                    <th className="portadaSong"><img src="../../../images/song2.jpg"></img><h4>Dakiti ft. Jhay Cortez</h4><h5>Bad Bunny</h5><button className="boton"></button></th>
-                    <th className="portadaSong"><img src="../../../images/song3.jpg"></img><h4>Rauw Alejandro - Reloj (ft. Anuel AA)</h4><h5>Music Live</h5><button className="boton"></button></th>
-                    <th className="portadaSong"><img src="../../../images/song4.jpg"></img><h4>BANDIDO - MYKE TOWERS FT JUHN</h4><h5>TRAP x REGGAETON</h5><button className="boton"></button></th>
-                    <th className="portadaSong"><img src="../../../images/song5.jpg"></img><h4>CABRON Y VAGO - EL FANTASMA Y LOS DOS CARNALES.mp3</h4><h5>Manuel Garcia Espinosa 1</h5><button className="boton"></button></th>
-                    <th className="portadaSong"><img src="../../../images/song7.jpg"></img><h4>Wisin, Jhay Cortez - Fiel</h4><h5>The Real Music</h5><button className="boton"></button></th>
+                    <th className={Imagen1}><img src="../../../images/song1.jpg"></img><h4>LMV-You Say You Love Me (Prod.EFE1 X Malloy)</h4><h5>LMV</h5><button className="boton9"></button></th>
+                    <th className={Imagen2}><img src="../../../images/song2.jpg"></img><h4>Dakiti ft. Jhay Cortez</h4><h5>Bad Bunny</h5><button className="boton9"></button></th>
+                    <th className={Imagen3}><img src="../../../images/song3.jpg"></img><h4>Rauw Alejandro - Reloj (ft. Anuel AA)</h4><h5>Music Live</h5><button className="boton9"></button></th>
+                    <th className={Imagen4}><img src="../../../images/song4.jpg"></img><h4>BANDIDO - MYKE TOWERS FT JUHN</h4><h5>TRAP x REGGAETON</h5><button className="boton9"></button></th>
+                    <th className={Imagen5}><img src="../../../images/song5.jpg"></img><h4>CABRON Y VAGO - EL FANTASMA Y LOS DOS CARNALES.mp3</h4><h5>Manuel Garcia Espinosa 1</h5><button className="boton9"></button></th>
+                    <th className={Imagen7}><img src="../../../images/song7.jpg"></img><h4>Wisin, Jhay Cortez - Fiel</h4><h5>The Real Music</h5><button className="boton9"></button></th>
                   </tr>
                 </tbody>
             </table>
             <table className="table1">
                 <tbody>
                   <tr>
-                    <th className="portadaSong"><img src="../../../images/song6.jpg"></img><h4>Kevin Roldan Ft Bryant Myers y Lyanno - Hasta Abajo</h4><h5>Reggae Trap</h5><button className="boton"></button></th>
-                    <th className="portadaSong"><img src="../../../images/song8.jpg"></img><h4>COMO SI NADA - ADSO ALEJANDRO</h4><h5>Franco Dgk Escate Quispe</h5><button className="boton"></button></th>
-                    <th className="portadaSong"><img src="../../../images/song9.jpg"></img><h4>Jay Wheeler, DJ Nelson y Myke Towers - La Curiosidad</h4><h5>Jay Wheeler</h5><button className="boton"></button></th>
-                    <th className="portadaSong"><img src="../../../images/song12.jpg"></img><h4>Christian Nodal - Botella Tras Botella Ft. Gera MX - (LETRA_LYRICS) 2020(MP3_160K)_1.mp3</h4><h5>Joshua Mitchell</h5><button className="boton"></button></th>
-                    <th className="portadaSong"><img src="../../../images/song11.jpg"></img><h4>Ozuna, J Balvin, Chencho Corleone - Una Locura</h4><h5>Ozuna</h5><button className="boton"></button></th>
-                    <th className="portadaSong"><img src="../../../images/song10.jpg"></img><h4>DENVIX MUSIC CÓMO SE SIENTE REMIX - BAD BUNNY Y JHAY CORTEZ DENVIX RMX</h4><h5>DENVIX MUSIC</h5><button className="boton"></button></th>
+                    <th className={Imagen6}><img src="../../../images/song6.jpg"></img><h4>Kevin Roldan Ft Bryant Myers y Lyanno - Hasta Abajo</h4><h5>Reggae Trap</h5><button className="boton9"></button></th>
+                    <th className={Imagen8}><img src="../../../images/song8.jpg"></img><h4>COMO SI NADA - ADSO ALEJANDRO</h4><h5>Franco Dgk Escate Quispe</h5><button className="boton9"></button></th>
+                    <th className={Imagen9}><img src="../../../images/song9.jpg"></img><h4>Jay Wheeler, DJ Nelson y Myke Towers - La Curiosidad</h4><h5>Jay Wheeler</h5><button className="boton9"></button></th>
+                    <th className={Imagen12}><img src="../../../images/song12.jpg"></img><h4>Christian Nodal - Botella Tras Botella Ft. Gera MX - (LETRA_LYRICS) 2020(MP3_160K)_1.mp3</h4><h5>Joshua Mitchell</h5><button className="boton9"></button></th>
+                    <th className={Imagen11}><img src="../../../images/song11.jpg"></img><h4>Ozuna, J Balvin, Chencho Corleone - Una Locura</h4><h5>Ozuna</h5><button className="boton9"></button></th>
+                    <th className={Imagen10}><img src="../../../images/song10.jpg"></img><h4>DENVIX MUSIC CÓMO SE SIENTE REMIX - BAD BUNNY Y JHAY CORTEZ DENVIX RMX</h4><h5>DENVIX MUSIC</h5><button className="boton9"></button></th>
                   </tr>
                 </tbody>
             </table>

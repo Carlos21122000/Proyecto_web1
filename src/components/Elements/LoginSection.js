@@ -1,7 +1,7 @@
   
 import React from "react";
 import "./LoginSection.css";
-
+import Imagen13 from "../../../images/SoundCloudLogo.png";
 class LoginSection extends React.Component  {
   render() {
     return (
@@ -12,7 +12,7 @@ class LoginSection extends React.Component  {
               <table>
                 <thead>
                   <tr>
-                    <th><img className="logoSLogin" src="../../../images/SoundCloudLogo.png"></img></th>
+                    <th><img className="logoSLogin" src={Imagen13}></img></th>
                     <th className="plogoLogin">SOUNDCLOUD</th>
                     <th><a href="#"><button type="button" className="bttIniciarSLogin">Inicia sesión</button></a></th> 
                     <th><a href="#"><button type="button" className="bttCrearTuCuentaLogin">Crea tu cuenta</button></a></th>

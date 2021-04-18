@@ -38,6 +38,8 @@ h5{
 .table1 tbody th img{
     width: 180px;
     height: 180px;
+    padding-left: 18px;
+    padding-top: 10px;
 }
 .btnSongs{
     visibility: hidden;
@@ -99,7 +101,7 @@ th:hover > .btnSongs{
     border: 0;
     padding-right: 20px;
 }
-.boton{
+.boton9{
     color: white;
     border: 0;
 }
@@ -112,11 +114,11 @@ th:hover > .btnSongs{
     height: 46px;
     border-radius: 3px;
 }
-th:hover > .boton{
+th:hover > .boton9{
     display: block;
     position: absolute;
     margin-left:65px;
-    margin-top: -180px;
+    margin-top: -200px;
     width:55px;
     height:55px;
     background-color: #f50;
@@ -125,7 +127,7 @@ th:hover > .boton{
     border: 0;
 }
 
-.boton::before{
+.boton9::before{
     content: "";
     display: block;
     box-sizing: border-box;
@@ -134,7 +136,7 @@ th:hover > .boton{
     height: 30px;
     border-top: 20px solid transparent;
     border-bottom: 20px solid transparent;
-    border-left: 25px solid white;
+    border-left: 25px solid #f2f2f2;
     top: 10px;
     left: 20px;
     opacity: 85%;

@@ -1,6 +1,7 @@
 import React from "react";
 import "./DownloadSection.css";
-
+import Imagen14 from "../../../images/descarga.jpg";
+import Imagen15 from "../../../images/down1.png";
 class DownloadSection extends React.Component {
   render() {
     return (
@@ -9,10 +10,10 @@ class DownloadSection extends React.Component {
             <table className="tableDow">
               <tbody>
                 <tr>
-                  <th className="imgDesc"><img src="../../../images/descarga.jpg"></img></th>
+                  <th className="imgDesc"><img src={Imagen14}></img></th>
                   <th className="descarga">
                     <p className="tituloDownload">Llévate la música contigo</p>
-                    <img className="designDesc"src="../../../images/down1.png"></img>
+                    <img className="designDesc"src={Imagen15}></img>
                     <p className="EnunciadoDown">SoundCloud está disponible en Web, iOS, Android, Sonos, Chromecast y Xbox One.</p>  
                     <table className="tablebutDow">
                       <tbody>
