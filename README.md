@@ -19,3 +19,18 @@ _Herramientas y frameworks utilizados_
 * [ESlint](https://eslint.org/)
 * [Sass](https://sass-lang.com/)
 
+## Aspectos que se realizaron en el proyecto
+
+*Diseño pagina web
+*link del proyecto publicado en el servidor de la clase.
+*Readme
+*Por no incluir ni un solo archivo de html en su proyecto
+  A excepción del index del proyecto (Solo el index.html se utilizo en el proyecto)
+* Implementacion de React
+* Implementacion de Babel
+* Implementacion de Webpack
+* Implementacion de ESLint
+* Implementacion de Sass
+* Implementacion de loaders para imágenes
+* Implementacion de  animaciones 
+* publicar la aplicacion en el puerto indicado en clase, con nginx.
